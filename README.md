@@ -13,7 +13,7 @@
 
 ## ***About BD-07 V1***:
 
-BD-06 is a python based cloning script. You can clone unlimited Bangladeshi facebook accounts by using this tool. This tool works on any Android devices without root.
+BD-07 is a python based cloning script. You can clone unlimited Bangladeshi facebook accounts by using this tool. This tool works on any Android devices without root.
 
 ## Install on Termux :
 ```
